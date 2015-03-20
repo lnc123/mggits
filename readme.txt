@@ -3,5 +3,5 @@ Git is free software distributed under the GPL.
 Git is one.
 Git is two.
 you are a king.
-Creating a new branch is quick.
+Creating a new branch shi quick.
 hehe.
